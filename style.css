@@ -51,6 +51,16 @@ body {
 	color: #3a3f52;
 }
 
+input{
+    width: 100%;
+    padding: 8px 0;
+    margin: 8px 0;
+}
+
+input[type=text] {
+    height: 100px;
+}
+
 h2 {
 	font-size: 44px;
 	font-weight: 700;
